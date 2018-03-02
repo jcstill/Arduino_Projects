@@ -10,6 +10,9 @@
   REQUIREMENTS TO FUNCTION:
   -Windows 10 with Bash on Ubuntu on Windows installed
   -Raspberry Pi on same network
+  
+  I do plan to Update this to run on windows machines
+  without bash installed, but that will take time...
 
   Commands Injected:
     Command Prompt:
