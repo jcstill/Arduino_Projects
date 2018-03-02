@@ -3,6 +3,7 @@
   Made By Jacob Still
   Published March 1, 2018
   
+  This sketch injects keystrokes (like a rubber ducky)
   that take all the files in folder "AutoBackup"
   on a windows box and uploads to a Raspberry Pi via scp
 
